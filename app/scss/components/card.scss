@@ -33,15 +33,22 @@
   }
 
   &--instagram {
+    padding-top: rem(30);
+
     &::before {
       content: "";
-      height: rem(4);
-      width: 100%;
-      background: var(--instagram-start);
       position: absolute;
       display: block;
       top: 0;
       left: 0;
+      width: 100%;
+      height: rem(4);
+      background: linear-gradient(
+        45deg,
+        var(--instagram-start),
+        var(--instagram-middle) 50%,
+        var(--instagram-end) 100%
+      );
     }
   }
 
@@ -55,6 +62,7 @@
     align-items: center;
     margin-bottom: rem(28);
     margin-top: rem(5);
+    height: rem(20);
   }
 
   &__icon {
