@@ -16,7 +16,7 @@
 .card {
   position: relative;
   overflow: hidden;
-  background: var(--dark-card);
+  background: var(--card-bg);
   color: var(--dark-text1);
   // width: rem(255);
   flex: 1;
@@ -25,7 +25,7 @@
   border-radius: rem(5);
 
   &:hover {
-    background: var(--dark-card-hover);
+    background: var(--card-hover);
     transition: background 0.2s ease-in-out;
     cursor: pointer;
   }
@@ -74,6 +74,7 @@
   &__subtitle {
     font-size: rem(14);
     font-weight: 700;
+    color: var(--text-color2);
   }
 
   &__icon {
@@ -94,6 +95,7 @@
   &__username {
     font-size: rem(12);
     font-weight: 700;
+    color: var(--text-color);
   }
 
   &__followers {
@@ -101,7 +103,7 @@
   }
 
   &__count {
-    color: var(--dark-text2);
+    color: var(--text-color);
     font-weight: 700;
     letter-spacing: rem(-2);
     line-height: 1;
