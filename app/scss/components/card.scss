@@ -24,6 +24,12 @@
   text-align: center;
   border-radius: rem(5);
 
+  &:hover {
+    background: var(--dark-card-hover);
+    transition: background 0.2s ease-in-out;
+    cursor: pointer;
+  }
+
   &--facebook {
     border-top: 4px solid var(--facebook);
   }
@@ -65,6 +71,11 @@
     height: rem(20);
   }
 
+  &__subtitle {
+    font-size: rem(14);
+    font-weight: 700;
+  }
+
   &__icon {
     margin-right: rem(8);
     &--facebook {
@@ -101,6 +112,7 @@
     }
 
     &--small {
+      font-size: rem(32);
     }
   }
 
