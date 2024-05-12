@@ -8,7 +8,7 @@ This project is a part of my journey to improve my programming skills by buildin
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#screenshots)
   - [Links](#links)
   - [My process](#my-process)
   - [Built with](#built-with)
@@ -30,10 +30,13 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 - Toggle color theme to their preference
 
-### Screenshot
+### Screenshots
 
-![Dark Background](./Screenshots/dark-bg.jpg) ![Dark Background with hover](./Screenshots/dark-active.jpg)
-![Light Background](./Screenshots/Light-bg.jpg) ![Light Background with hover](./Screenshots/Light-active.jpg)
+| Dark Background                                 | Dark Background with hover                                     |
+| ----------------------------------------------- | -------------------------------------------------------------- |
+| ![Dark Background](./Screenshots/dark-bg.jpg)   | ![Dark Background with hover](./Screenshots/dark-active.jpg)   |
+| Light Background                                | Light Background with hover                                    |
+| ![Light Background](./Screenshots/Light-bg.jpg) | ![Light Background with hover](./Screenshots/Light-active.jpg) |
 
 ### Links
 
