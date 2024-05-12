@@ -32,10 +32,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Dark Background](./Screenshots/dark-bg.jpg)
-![Dark Background with hover](./Screenshots/dark-active.jpg)
-![Light Background](./Screenshots/Light-bg.jpg)
-![Ligth Background with hover](./Screenshots/Light-active.jpg)
+![Dark Background](./Screenshots/dark-bg.jpg) ![Dark Background with hover](./Screenshots/dark-active.jpg)
+![Light Background](./Screenshots/Light-bg.jpg) ![Light Background with hover](./Screenshots/Light-active.jpg)
 
 ### Links
 
