@@ -40,8 +40,8 @@ Users should be able to:
 
 ### Links
 
-- [Live Demo](https://example.com)
-- [GitHub Repository](https://github.com/yourusername/your-repo)
+- [Live Website]([https://example.com](https://story27.github.io/Dashboard/))
+- [GitHub Repository]([https://github.com/yourusername/your-repo](https://github.com/Story27/Dashboard))
 
 ### My process
 
@@ -71,8 +71,9 @@ In future projects, I would like to further enhance my skills in JavaScript and 
 
 ## Author
 
-- Website - [Add your name](#)
-- Twitter - [@yourusername](#)
+- My Discord Server - [STORY](https://discord.gg/m9F8ykEkmp)
+- LinkedIn - [Harshit Pathak](https://www.linkedin.com/in/harshit-pathak-4ba6aa22a/)
+- Twitter - [@storynotthere](https://twitter.com/Storynotthere)
 
 ## Acknowledgments
 
